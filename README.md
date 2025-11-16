@@ -1,2 +1,2 @@
-# Provodnik-k-smwslu
+# Provodnik-k-meaning
 Как чётко видеть и понимать смысл чего либо
